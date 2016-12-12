@@ -1,5 +1,5 @@
 {
-  "name": "tokenize-html",
+  "name": "tokenizer-of-html",
   "version": "1.0.0",
   "description": "A HTML tokenizer",
   "main": "index.js",
