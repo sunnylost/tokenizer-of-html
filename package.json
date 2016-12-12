@@ -10,8 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/sunnylost/tokenize-html.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "html",
+    "tokenize"
+  ],
+  "author": "sunnylost",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sunnylost/tokenize-html/issues"
